@@ -1,1 +1,3 @@
-let foo = 'bar'
+import myModule from './app'
+
+myModule.check()
